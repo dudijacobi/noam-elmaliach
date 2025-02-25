@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `npm i`
 
-Installing dependencies for the project dev env.
+Installing dependencies for the project dev env
 
 ### `npm start`
 
