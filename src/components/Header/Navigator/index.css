@@ -1,0 +1,13 @@
+.navigator {
+  background-color: #363f3e;
+  padding: 10px;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+
+  font-size: 1.4em;
+  font-weight: 600;
+}
